@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Blazium</string>
+    <string name="title_activity_main">Blazium</string>
+    <string name="package_name">xyz.blazium.app</string>
+    <string name="custom_url_scheme">xyz.blazium.app</string>
+</resources>

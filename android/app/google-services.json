@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "99164555225",
+    "project_id": "blazium-45f8e",
+    "storage_bucket": "blazium-45f8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99164555225:android:ba98b3b483d5ad5447bbc8",
+        "android_client_info": {
+          "package_name": "xyz.blazium.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyKKtSHjUi5gMLdWQu3qTxhnCoyEd2YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+{
+  "project_info": {
+    "project_number": "99164555225",
+    "project_id": "blazium-45f8e",
+    "storage_bucket": "blazium-45f8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99164555225:android:ba98b3b483d5ad5447bbc8",
+        "android_client_info": {
+          "package_name": "xyz.blazium.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyKKtSHjUi5gMLdWQu3qTxhnCoyEd2YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
